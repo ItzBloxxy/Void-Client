@@ -1,0 +1,17 @@
+C:\Users\Bloxxy\source\repos\Void Client\Void Client\bin\Debug\net8.0-windows\Void Client.exe
+C:\Users\Bloxxy\source\repos\Void Client\Void Client\bin\Debug\net8.0-windows\Void Client.deps.json
+C:\Users\Bloxxy\source\repos\Void Client\Void Client\bin\Debug\net8.0-windows\Void Client.runtimeconfig.json
+C:\Users\Bloxxy\source\repos\Void Client\Void Client\bin\Debug\net8.0-windows\Void Client.dll
+C:\Users\Bloxxy\source\repos\Void Client\Void Client\bin\Debug\net8.0-windows\Void Client.pdb
+C:\Users\Bloxxy\source\repos\Void Client\Void Client\obj\Debug\net8.0-windows\Void_Client.Form1.resources
+C:\Users\Bloxxy\source\repos\Void Client\Void Client\obj\Debug\net8.0-windows\Void Client.csproj.GenerateResource.cache
+C:\Users\Bloxxy\source\repos\Void Client\Void Client\obj\Debug\net8.0-windows\Void Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bloxxy\source\repos\Void Client\Void Client\obj\Debug\net8.0-windows\Void Client.AssemblyInfoInputs.cache
+C:\Users\Bloxxy\source\repos\Void Client\Void Client\obj\Debug\net8.0-windows\Void Client.AssemblyInfo.cs
+C:\Users\Bloxxy\source\repos\Void Client\Void Client\obj\Debug\net8.0-windows\Void Client.csproj.CoreCompileInputs.cache
+C:\Users\Bloxxy\source\repos\Void Client\Void Client\obj\Debug\net8.0-windows\Void Client.dll
+C:\Users\Bloxxy\source\repos\Void Client\Void Client\obj\Debug\net8.0-windows\refint\Void Client.dll
+C:\Users\Bloxxy\source\repos\Void Client\Void Client\obj\Debug\net8.0-windows\Void Client.pdb
+C:\Users\Bloxxy\source\repos\Void Client\Void Client\obj\Debug\net8.0-windows\Void Client.genruntimeconfig.cache
+C:\Users\Bloxxy\source\repos\Void Client\Void Client\obj\Debug\net8.0-windows\ref\Void Client.dll
+C:\Users\Bloxxy\source\repos\Void Client\Void Client\obj\Debug\net8.0-windows\Void_Client.Properties.Resources.resources
