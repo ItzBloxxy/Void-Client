@@ -1,3 +1,6 @@
+> [!CAUTION]
+> The only official places to download Bloxstrap is this GitHub repository, Any other websites offering downloads or claiming to be us are not controlled by us.
+
 # 🚀 Void Client (New!)
 
 Void Client is a open-source, lightweight tool to help you manage your **FFlags**, launch **Roblox**, and open the Roblox **file location** easily.
