@@ -2,7 +2,7 @@
 
 Void Client is a lightweight tool to help you manage your **FFlags**, launch **Roblox**, and open the Roblox **file location** easily.
 
-## Planning to make this open-source!
+## Open source
 
 **Features:**
 
