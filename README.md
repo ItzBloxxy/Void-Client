@@ -1,8 +1,6 @@
 # 🚀 Void Client (New!)
 
-Void Client is a lightweight tool to help you manage your **FFlags**, launch **Roblox**, and open the Roblox **file location** easily.
-
-## Open source
+Void Client is a open-source, lightweight tool to help you manage your **FFlags**, launch **Roblox**, and open the Roblox **file location** easily.
 
 **Features:**
 
