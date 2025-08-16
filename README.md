@@ -7,10 +7,10 @@ Void Client is a open-source, ultra lightweight tool to help you manage your **F
 
 **Features:**
 
-* ⚙️ Manage Roblox FFlags (BETA)
+* ⚙️ Manage Roblox FFlags
 * 🎮 Launch Roblox directly from the client
 * 📂 Open Roblox installation folder with one click
-* ✨ Simple and clean interface
+* ✨ Simple and clean UI
 
 **Note:** This is new, so expect ongoing updates and improvements! It’s my first time making an app, and I appreciate your patience as I keep learning and improving it over time! ❤️
 
