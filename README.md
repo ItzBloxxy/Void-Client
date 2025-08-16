@@ -1,5 +1,5 @@
 > [!CAUTION]
-> The only official places to download Bloxstrap are this GitHub repository and our offical website https://voidclient.netlify.app Any other websites offering downloads or claiming to be us are not controlled by us.
+> The only official sources to download Bloxstrap are this [GitHub repository] and our official website: https://voidclient.netlify.app. Any other websites offering downloads or claiming to be us are not affiliated with or controlled by us.
 
 # 🚀 Void Client (New!)
 
