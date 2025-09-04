@@ -1,10 +1,18 @@
-<div style="border-left: 4px solid #facc15; background-color: #fef9c3; padding: 10px; font-family: sans-serif;">
-  <strong>ℹ️ INFO:</strong> A full remake is coming soon — with a redesigned UI, new features, faster performance, and better organization!
-  <ul>
-    <li>🗂️ Upload your server <code>.jar</code> file</li>
-    <li>💻 Choose your RAM (minimum <code>512MB</code>, no maximum limit)</li>
-    <li>📝 Name your server</li>
-    <li>✅ Done! Your server is saved and ready to launch 🎮🔥</li>
-    <li>🌐 Use <a href="https://playit.gg/">playit.gg</a> to publish your server and play with friends</li>
-  </ul>
-</div>
+> [!CAUTION]
+> The only official sources to download Bloxstrap are this GitHub repository and our official website: https://voidclient.netlify.app. Any other websites offering downloads or claiming to be us are not affiliated with or controlled by us.
+
+# 🚀 Void Client (New!)
+
+Void Client is a open-source, lightweight tool to help you manage your **FFlags**, launch **Roblox**, and open the Roblox **file location** easily.
+
+**Features:**
+
+* ⚙️ Manage Roblox FFlags
+* 🎮 Launch Roblox directly from the client
+* 📂 Open Roblox installation folder with one click
+* ✨ Simple and clean UI
+
+**Note:** This is a new project, so expect updates and improvements! It’s my first time making an app, and I appreciate your patience as I keep learning and improving it over time! ❤️
+
+**I can't make more buttons or uis because i'm having a annoying designer bug that can't be fixed in visual studio 2022 :C (tried everything)**
+**MUCH MORE FEATURES COMING SOON!**
