@@ -15,8 +15,8 @@ Void Client is a open-source, lightweight tool to help you manage your **FFlags*
 **Note:** This is a new project, so expect updates and improvements! It’s my first time making an app, and I appreciate your patience as I keep learning and improving it over time! ❤️
 
 # This project is discontinued due to bitdancer's fault fflags don't exist anymore.
-** only a small allow list!
+**only a small allow list!**
 
-**May still recieve some bug fix updates and that's it.
+**May still recieve some bug fix updates and that's it.**
 
 **I will work on a bloxstrap fork ig**
