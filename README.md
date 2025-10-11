@@ -3,9 +3,9 @@
 
 > [!IMPORTANT]
 > This project is discontinued due to "**Bitdancer's**" *fault* **fflags** don't exist anymore. (Only a small allowlist!)
-> **May still recieve some bug fix updates.**
+> **May still recieve updates.**
 
-**I will work on a bloxstrap fork ig**
+**I'll work on a bloxstrap fork ig**
 
 # 🚀 Void Client
 
