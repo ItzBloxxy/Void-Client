@@ -2,7 +2,7 @@
 > The only official sources to download Bloxstrap are this GitHub repository and our official website: https://voidclient.netlify.app. Any other websites offering downloads or claiming to be us are not affiliated with or controlled by us.
 
 > [!IMPORTANT]
-> This project is discontinued due to "Bitdancer's" fault fflags don't exist anymore. (Only a small allowlist!)
+> This project is discontinued due to "**Bitdancer's**" *fault* **fflags** don't exist anymore. (Only a small allowlist!)
 > **May still recieve some bug fix updates.**
 
 **I will work on a bloxstrap fork ig**
