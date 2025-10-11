@@ -5,9 +5,9 @@
 > This project is discontinued due to "Bitdancer's" fault fflags don't exist anymore. (Only a small allowlist!)
 > **May still recieve some bug fix updates.**
 
-# 🚀 Void Client (New!)
+# 🚀 Void Client
 
-Void Client is a open-source, lightweight tool to help you manage your **FFlags**, launch **Roblox**, and open the Roblox **file location** easily.
+Void Client is a open-source (outdated source gonna update soon), lightweight tool to help you manage your **FFlags**, launch **Roblox**, and open the Roblox **file location** easily.
 
 **Features:**
 
