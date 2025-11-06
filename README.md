@@ -1,5 +1,5 @@
 > [!CAUTION]
-> The only **official** sources to download Void **Client** are this GitHub repository and our official website ```https://voidclient.netlify.app``` Any other websites offering downloads or claiming to be us are not affiliated with or controlled by us.
+> The only **official** sources to download Void **Client** are this GitHub repository and our official website https://voidclient.netlify.app Any other websites offering downloads or claiming to be us are not affiliated with or controlled by us.
 
 > [!IMPORTANT]
 > This project is discontinued due to "**Bitdancer's**" fault **fflags** don't exist anymore. (Only a small allowlist!)
