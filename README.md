@@ -18,4 +18,4 @@ Void Client is a open-source (outdated source gonna update it soon), lightweight
 * 📂 Open Roblox installation folder with one click
 * ✨ Simple and clean UI
 
-**Note:** This is a new project, so expect updates and improvements! It’s my first time making an app, and I appreciate your patience as I keep learning and improving it over time! ❤️
+This is a new project, so expect updates and improvements! It’s my first time making an app using **C#**, and I appreciate your patience as I keep learning and improving it over time! ❤️
