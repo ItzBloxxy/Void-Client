@@ -5,7 +5,10 @@
 > This project is discontinued due to "**Bitdancer's**" fault **fflags** don't exist anymore. (Only a small allowlist!)
 > **May still recieve updates.**
 
-**I'll work on a bloxstrap fork ig**
+**Annoucement**
+I’m excited to announce that I’m working on a new Fishstrap-based bootstrap called [BubbleStrap](https://github.com/ItzBloxxy/BubbleStrap).
+It has many features and more coming ahead
+Also it is faster and more lightweight than Fishstrap.
 
 # 🚀 Void Client
 
