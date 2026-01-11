@@ -2,12 +2,7 @@
 > The only **official** sources to download **Void Client** are this GitHub repository and our official website https://voidclient.netlify.app Any other websites offering downloads or claiming to be us are not affiliated with or controlled by us.
 
 > [!IMPORTANT]
-> This project is discontinued due to "**Bitdancer's**" fault **fflags** don't exist anymore. (Only a small allowlist!)
-
-# Annoucement
-I’m excited to announce that I’m working on a new Fishstrap-based bootstrap called [BubbleStrap](https://github.com/ItzBloxxy/BubbleStrap).
-It has many features and more coming ahead
-Also it is faster and more lightweight than Fishstrap.
+> This project is discontinued due to lack of fflags now. Use [BubbleStrap](https://github.com/ItzBloxxy/BubbleStrap)
 
 # 🚀 Void Client
 
