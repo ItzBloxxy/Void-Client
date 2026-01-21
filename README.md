@@ -2,7 +2,7 @@
 > The only **official** sources to download **Void Client** are this GitHub repository and our official website https://voidclient.netlify.app Any other websites offering downloads or claiming to be us are not affiliated with or controlled by us.
 
 > [!WARNING]
-> This project is discontinued due to lack of fflags now. Use [BubbleStrap](https://github.com/ItzBloxxy/BubbleStrap)
+> This project is discontinued now RIP :( We have moved on to [BubbleStrap](https://github.com/ItzBloxxy/BubbleStrap)
 
 # 🚀 Void Client
 
